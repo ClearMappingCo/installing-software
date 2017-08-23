@@ -1,0 +1,46 @@
+---
+title: "Installing R and RStudio for use with Spatial Data"
+output: pdf_document
+author: "Nick Bearman - Clear Mapping Co"
+---
+
+We will be setting up two programs for use in the practical - R, and RStudio. Follow the instructions below, depending on your operating system.
+
+##R - Windows 
+
+Open a web browser and download the file from http://bit.ly/installRwin (or https://cran.r-project.org/bin/windows/base/release.htm). 
+
+Run through the program installation process.
+
+##R - OSX
+
+Open a web browser and download the file from http://bit.ly/installRosx (or https://cran.r-project.org/bin/macosx/). 
+
+Download the installer appropiate for your version of OSX. *(This is probably the most recent version, but if you are not sure, click on the Apple icon in the top left corner of your screen and click 'About this Mac'.)*
+
+Run through the program installation process.
+
+##R - Ubuntu
+
+You can install R through the Software Centre, or this blog post shows you how to install R from the terminal https://www.r-bloggers.com/how-to-install-r-on-linux-ubuntu-16-04-xenial-xerus/. 
+
+##RStudio - All operating systems
+
+Go to http://bit.ly/installRStudio (or https://www.rstudio.com/products/rstudio/download/) and download the appropiate installer for your operating system. 
+
+Run through the program installation process. 
+
+##Installing Packages
+
+We will be using a series of packages. Open up RStudio and type the following commands (pressing enter after each line) in to the Console to install the required packages:
+
+```{r, eval = FALSE}
+install.packages("raster")
+install.packages("rgdal")
+```
+
+Read any messages that come up, particually if they are short. Text in red does not always mean an error!
+
+You are good to go!
+
+*This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/deed.en. The latest version of the PDF is available from https://github.com/ClearMappingCo/installing-software. This version was created on `r format(Sys.time(), '%d %B %Y')`.*
