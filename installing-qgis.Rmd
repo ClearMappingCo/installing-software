@@ -1,0 +1,32 @@
+---
+title: "Installing QGIS"
+output: pdf_document
+author: "Nick Bearman - Clear Mapping Co"
+---
+
+We will be setting up QGIS for use in the practical. Follow the instructions below, depending on your operating system.
+
+##Windows 
+
+- Open a web browser and go to http://www.qgis.org.  
+- Download the latest version (currently 2.18). *Select the 64 bit version, unless you have a very old computer, or know that you need the 32 bit version*.  
+- Run through the program installation process.  
+
+##OSX
+
+- Open a web browser and go to http://www.qgis.org.  
+- Under **Download for Mac OS X** click the link to go to `KyngChaos QGIS download page`.  
+- Download the current version (currently `QGIS 2.18.9-1 [287.4 MiB]`).  
+- Extract the package and follow the instructions the README file. There are various different components to install.   
+<!-- add more to this section -->
+
+##Linux/Ubuntu
+
+- Open a web browser and go to http://www.qgis.org.  
+- Expand the **Download for Linux** option.  
+- Follow the instructions for the appropiate Linux distribution.  
+<!-- add more to this section -->
+
+You are good to go!
+
+*This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/deed.en. The latest version of the PDF is available from https://github.com/ClearMappingCo/installing-software. This version was created on `r format(Sys.time(), '%d %B %Y')`.*
