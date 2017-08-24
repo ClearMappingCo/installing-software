@@ -35,8 +35,8 @@ Run through the program installation process.
 We will be using a series of packages. Open up RStudio and type the following commands (pressing enter after each line) in to the Console to install the required packages:
 
 ```{r, eval = FALSE}
-install.packages("raster")
-install.packages("rgdal")
+install.packages(c("raster","rgdal"))
+install.packages(c("RColorBrewer"))
 ```
 
 Read any messages that come up, particually if they are short. Text in red does not always mean an error!
