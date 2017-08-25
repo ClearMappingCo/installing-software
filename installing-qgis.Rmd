@@ -9,12 +9,14 @@ We will be setting up QGIS for use in the practical. Follow the instructions bel
 ##Windows 
 
 - Open a web browser and go to http://www.qgis.org.  
+- Click **Download Now**.  
 - Download the latest version (currently 2.18). *Select the 64 bit version, unless you have a very old computer, or know that you need the 32 bit version*.  
 - Run through the program installation process.  
 
 ##OSX
 
 - Open a web browser and go to http://www.qgis.org.  
+- Click **Download Now**.  
 - Under **Download for Mac OS X** click the link to go to `KyngChaos QGIS download page`.  
 - Download the current version (currently `QGIS 2.18.9-1 [287.4 MiB]`).  
 - Extract the package and follow the instructions the README file. There are various different components to install.   
@@ -23,6 +25,7 @@ We will be setting up QGIS for use in the practical. Follow the instructions bel
 ##Linux/Ubuntu
 
 - Open a web browser and go to http://www.qgis.org.  
+- Click **Download Now**.  
 - Expand the **Download for Linux** option.  
 - Follow the instructions for the appropiate Linux distribution.  
 <!-- add more to this section -->
