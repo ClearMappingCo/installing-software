@@ -19,8 +19,9 @@ We will be setting up QGIS for use in the practical. Follow the instructions bel
 - Click **Download Now**.  
 - Under **Download for Mac OS X** click the link to go to `KyngChaos QGIS download page`.  
 - Download the current version (currently `QGIS 2.18.9-1 [287.4 MiB]`).  
-- Extract the package and follow the instructions the README file. There are various different components to install.   
-<!-- add more to this section -->
+- Open the disk image file. There are various different components to install, and they need to be installed in order.  
+- Right-click on `1 GDAL Complete.pkg` and choose `Open` *(double clicking will probably not work)*.  
+- Follow through the installation wizard, and then repeat for files 2 to 4.  
 
 ##Linux/Ubuntu
 
