@@ -4,7 +4,7 @@ output: pdf_document
 author: "Nick Bearman - Clear Mapping Co"
 ---
 
-We will be setting up two programs for use in the practical - R, and RStudio. Follow the instructions below, depending on your operating system.
+We will be setting up two programs for use in the practical - R and RStudio. Follow the instructions below, depending on your operating system.
 
 ##R - Windows 
 
@@ -16,7 +16,7 @@ Run through the program installation process.
 
 Open a web browser and download the file from http://bit.ly/installRosx (or https://cran.r-project.org/bin/macosx/). 
 
-Download the installer appropiate for your version of OSX. *(This is probably the most recent version, but if you are not sure, click on the Apple icon in the top left corner of your screen and click 'About this Mac'.)*
+Download the installer appropriate for your version of OSX. *(This is probably the most recent version, but if you are not sure, click on the Apple icon in the top left corner of your screen and click 'About this Mac'.)*
 
 Run through the program installation process.
 
@@ -26,7 +26,7 @@ You can install R through the Software Centre, or this blog post shows you how t
 
 ##RStudio - All operating systems
 
-Go to http://bit.ly/installRStudio (or https://www.rstudio.com/products/rstudio/download/) and download the appropiate installer for your operating system. 
+Go to http://bit.ly/installRStudio (or https://www.rstudio.com/products/rstudio/download/) and download the appropriate installer for your operating system. 
 
 Run through the program installation process. 
 
@@ -39,7 +39,7 @@ install.packages(c("raster","rgdal"))
 install.packages(c("RColorBrewer"))
 ```
 
-Read any messages that come up, particually if they are short. Text in red does not always mean an error!
+Read any messages that come up, particularly if they are short. Red text does not always mean an error!
 
 You are good to go!
 
