@@ -24,7 +24,7 @@ Run through the program installation process.
 
 You can install R through the Software Centre, or this blog post shows you how to install R from the terminal https://www.r-bloggers.com/how-to-install-r-on-linux-ubuntu-16-04-xenial-xerus/. 
 
-##RStudio - All operating systems
+## RStudio - All operating systems
 
 Go to http://bit.ly/installRStudio (or https://www.rstudio.com/products/rstudio/download/) and download the appropriate installer for your operating system. 
 
