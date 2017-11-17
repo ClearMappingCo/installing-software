@@ -6,13 +6,13 @@ author: "Nick Bearman - Clear Mapping Co"
 
 We will be setting up two programs for use in the practical - R and RStudio. Follow the instructions below, depending on your operating system.
 
-##R - Windows 
+## R - Windows 
 
 Open a web browser and download the file from http://bit.ly/installRwin (or https://cran.r-project.org/bin/windows/base/release.htm). 
 
 Run through the program installation process.
 
-##R - OSX
+## R - OSX
 
 Open a web browser and download the file from http://bit.ly/installRosx (or https://cran.r-project.org/bin/macosx/). 
 
@@ -20,7 +20,7 @@ Download the installer appropriate for your version of OSX. *(This is probably t
 
 Run through the program installation process.
 
-##R - Ubuntu
+## R - Ubuntu
 
 You can install R through the Software Centre, or this blog post shows you how to install R from the terminal https://www.r-bloggers.com/how-to-install-r-on-linux-ubuntu-16-04-xenial-xerus/. 
 
@@ -30,7 +30,7 @@ Go to http://bit.ly/installRStudio (or https://www.rstudio.com/products/rstudio/
 
 Run through the program installation process. 
 
-##Installing Packages
+## Installing Packages
 
 We will be using a series of packages. Open up RStudio and type the following commands (pressing enter after each line) in to the Console to install the required packages:
 
